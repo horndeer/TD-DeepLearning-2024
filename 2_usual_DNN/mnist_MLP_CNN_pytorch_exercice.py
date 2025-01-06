@@ -88,6 +88,7 @@ class MLPNet(nn.Module):
 NUM_CONV_1=TODO
 NUM_CONV_2=TODO
 NUM_FC=TODO
+
 class CNNNet(nn.Module):
     def __init__(self):
         super(CNNNet,self).__init__()
